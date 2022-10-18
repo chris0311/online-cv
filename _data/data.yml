@@ -68,17 +68,16 @@ education:
       - degree: BSc in Computing and Software Engineering (Current)
         university: University of Melbourne
         time: 2021 - 2023
-        details: |
-         Learnt intermediate algorithm design and analysis, 
-         object oriented programming, data processing and analysis, 
-         and basic machine learning algorithms. |
-         Also learnt about database systems. |
-         In addition, took some courses in finance and food issues. |
-         Current WAM: 79 |
+        details: "
+         Learnt intermediate algorithm design and analysis, object oriented programming, data processing and analysis, and basic machine learning algorithms.\n
+         Also learnt about database systems. \n
+         In addition, took some courses in finance and food issues. \n
+         Current WAM: 79 \n
          Key subjects:
             - COMP20007: Design of Algorithms
             - SWEN20003: Obeject Oriented Software Development
             - INFO20003: Database Systems
+        "
       - degree: Canadian High School Diploma (Manitoba)
         university: Clifford International School
         time: 2018 - 2020
