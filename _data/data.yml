@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Chris(Junyu) Liang
-    tagline: Student at The University of Melbourne
+    tagline: Computing Student at The University of Melbourne
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -53,15 +53,14 @@ sidebar:
         - item: 
           link:
 
-# career-profile:
-#     title: Career Profile
-#     summary: |
-#       Summarise your career here lorem ipsum dolor sit amet, consectetuer
-#       adipiscing elit. You can [download this free resume/CV template here]().
-#       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-#       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-#       Donec quam felis, ultricies nec, pellentesque eu.
-#       Second paragraph if required.
+career-profile:
+    title: Profile
+    summary: |
+      Current student at the University of Melbourne, majoring in computing and software systems.   
+      Fluent in English, Mandarin Chinese and Cantonese.   
+      Information Technology pro with technical programming background and able to interpret complex business needs into technology solutions.   
+      Skilled at using Python, Java and C, as well as good understanding in MySQL.   
+      Interested in software engineering and development.   
 education:
     title: Education
     info:
@@ -73,7 +72,7 @@ education:
          Also learnt about database systems.   
          In addition, took some courses in finance and food issues.   
          Current WAM: 79   
-         Key subjects:   
+         Key subjects taken:   
             - COMP20007: Design of Algorithms
             - SWEN20003: Obeject Oriented Software Development
             - INFO20003: Database Systems
@@ -83,46 +82,36 @@ education:
         time: 2018 - 2020
         details: |
           Graduated in distinguished honor roll. Average mark: 86
-# experiences:
-#     title: Experiences
-#     info:
-#       - role: Lead Developer
-#         time: 2015 - Present
-#         company: Startup Hubs, San Francisco
-#         details: |
-#           Describe your role here lorem ipsum dolor sit amet, consectetuer
-#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#           Cum sociis natoque penatibus et magnis dis parturient montes,
-#           nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#           pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-#           enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-#           error sit voluptatem accusantium doloremque laudantium, totam rem
-#           aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-#           architecto beatae vitae dicta sunt explicabo.
-#             - Bullet point
-#             - Bullet point
-#       - role: Senior Software Engineer
-#         time: 2014 - 2015
-#         company: Google, London
-#         details: |
-#           Describe your role here lorem ipsum dolor sit amet, consectetuer
-#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#           Cum sociis natoque penatibus et magnis dis parturient montes,
-#           nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#           pellentesque eu, pretium quis, sem.
-#             - Bullet point
-#             - Bullet point
-#       - role: UI Developer
-#         time: 2012 - 2014
-#         company: Amazon, London
-#         details: |
-#           Describe your role here lorem ipsum dolor sit amet, consectetuer
-#           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#           Cum sociis natoque penatibus et magnis dis parturient montes,
-#           nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#           pellentesque eu, pretium quis, sem.
-#             - Bullet point
-#             - Bullet point
+experiences:
+    title: Voluntary Experiences
+    info:
+      - role: Voluntary Teacher
+        time: 2018
+        company: Shaoguan, Guangdong, China
+        details: |
+          Worked as a volunatry teacher and taught elementary school students in rurual areas during summer holiday.
+      # - role: Senior Software Engineer
+      #   time: 2014 - 2015
+      #   company: Google, London
+      #   details: |
+      #     Describe your role here lorem ipsum dolor sit amet, consectetuer
+      #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      #     Cum sociis natoque penatibus et magnis dis parturient montes,
+      #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      #     pellentesque eu, pretium quis, sem.
+      #       - Bullet point
+      #       - Bullet point
+      # - role: UI Developer
+      #   time: 2012 - 2014
+      #   company: Amazon, London
+      #   details: |
+      #     Describe your role here lorem ipsum dolor sit amet, consectetuer
+      #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+      #     Cum sociis natoque penatibus et magnis dis parturient montes,
+      #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      #     pellentesque eu, pretium quis, sem.
+      #       - Bullet point
+      #       - Bullet point
 # projects:
 #     title: Projects
 #     intro: >
