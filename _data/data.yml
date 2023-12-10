@@ -56,10 +56,10 @@ sidebar:
 career-profile:
     title: Profile
     summary: |
-      Current student at the University of Melbourne, majoring in computing and software systems.   
-      Fluent in English, Mandarin Chinese and Cantonese.   
-      Information Technology pro with technical programming background and able to interpret complex business needs into technology solutions.   
-      Skilled at using Python, Java and C, as well as good understanding in MySQL.   
+      I am currently a student at the University of Melbourne, majoring in computing and software systems.   
+      Fluent in English, Mandarin Chinese, and Cantonese.   
+      Information Technology Pro with a technical programming background and able to interpret complex business needs into technology solutions.   
+      Skilled at using Python, Java, and C, good understanding of MySQL and Haskell.   
       Interested in software engineering and development.   
 education:
     title: Education
@@ -68,14 +68,17 @@ education:
         university: University of Melbourne
         time: 2021 - 2023
         details: |
-         Learnt intermediate algorithm design and analysis, object oriented programming, data processing and analysis, and basic machine learning algorithms.   
-         Also learnt about database systems.   
-         In addition, took some courses in finance and food issues.   
-         Current WAM: 79   
+         I have developed a solid foundation in algorithm design and analysis and object-oriented programming design. 
+         My skill set also includes proficiency in data processing and analysis, as well as machine learning and AI algorithms. 
+         Additionally, I have expanded my knowledge base by studying database systems. 
+         Moreover, I have delved into the study of computing models.
+         To complement these technical skills, I have taken courses in finance and explored food-related issues. 
+         Current WAM:  First Class Honors
          Key subjects taken:   
-            - COMP20007: Design of Algorithms
-            - SWEN20003: Obeject Oriented Software Development
-            - INFO20003: Database Systems
+            - SWEN30006: Software Modeling and Design
+            - COMP30022: IT Project
+            - COMP30026: Models of Computation
+            - COMP30027: Machine Learning
 
       - degree: Canadian High School Diploma (Manitoba)
         university: Clifford International School
@@ -172,10 +175,16 @@ skills:
         level: 85%
 
       - name: Python
-        level: 80%
+        level: 90%
+
+      - name: MySQL
+        level: 70%
+
+      - name: Haskell
+        level: 30%
 
       - name: Ren'Py
-        level: 20%
+        level: 40%
 
       # - name:
       #   level:
