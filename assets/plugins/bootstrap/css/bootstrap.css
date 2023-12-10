@@ -188,7 +188,7 @@ th {
   padding: 0;
 }
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
-@media print {
+/* @media print {
   *,
   *:before,
   *:after {
@@ -197,7 +197,7 @@ th {
     background: transparent !important;
     -webkit-box-shadow: none !important;
             box-shadow: none !important;
-  }
+  } */
   a,
   a:visited {
     text-decoration: underline;
